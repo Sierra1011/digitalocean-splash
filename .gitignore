@@ -1,11 +1,17 @@
 local.properties
 .idea
-.gradle
 *.iml
-build/
 bin/
 gen/
 .DS_Store
+
+.gradle
+
+build/
 /build
-/captures
 .externalNativeBuild
+
+/captures
+
+# VS Code files
+.vscode
