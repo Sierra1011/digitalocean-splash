@@ -19,6 +19,7 @@ Bring DigitalOcean to your fingertips.
 * Multiple accounts support! Good things come in ~threes~ multiples.
 
 Source code: https://github.com/sierra1011/digitalocean-splash
+
 Honourable mention to https://github.com/yassirh/digital-ocean-swimmer
 
 For issues or feature requests open a new issue here : https://github.com/sierra1011/digitalocean-splash/issues
